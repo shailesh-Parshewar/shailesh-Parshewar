@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shailesh-Parshewar
-- 👀 I’m interested in Java and it's applications to develop softwares. 
-- 🌱 I’m currently learning core java.
+- 👀 I’m interested in reactJS and i am trying to become a better mern stack dev.
+- 🌱 I’m currently learning React and everything about it.
 - 
-- 📫 You can reach to me at my Gmail srparshewar@gmail.com.
+- 📫 You can reach to me at my email srparshewar@gmail.com.
 
 <!---
 shailesh-Parshewar/shailesh-Parshewar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
