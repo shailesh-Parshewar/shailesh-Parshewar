@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shailesh-Parshewar
-- 👀 I’m interested in reactJS and i am trying to become a better mern stack dev.
+- 👀 I’m interested in ReactJS and i am trying to become a better mern stack dev.
 - 🌱 I’m currently learning React and everything about it.
 - 
 - 📫 You can reach to me at my email srparshewar@gmail.com.
